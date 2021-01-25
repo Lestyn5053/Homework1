@@ -1,0 +1,19 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "This isn't required, but you can put one in if you want, so I'm gonna put one in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lestyn5053/Homework1.git"
+  },
+  "author": "Lestyn Brooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lestyn5053/Homework1/issues"
+  },
+  "homepage": "https://github.com/Lestyn5053/Homework1#readme"
+}
